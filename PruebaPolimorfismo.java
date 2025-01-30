@@ -97,9 +97,7 @@ class Empleado extends Persona implements InterfazEmpleado{
 		this.codigo = codigo;
 	}
 	
-	public String getCodigo() {
-		return this.codigo;
-	}
+	
 	public void setDiasTrabajados(int diasTrabajados) {
 		this.diasTrabajados = diasTrabajados;
 	}
