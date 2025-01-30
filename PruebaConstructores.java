@@ -247,6 +247,7 @@ class Paciente{
 		System.out.println("PESO: " + peso);
 		System.out.println("EDAD: " + edad);
 		System.out.println("VISITA MEDICA: " + visitMedica);
+		System.out.println("Gracias por su visita! ");
 	}
 }
 
