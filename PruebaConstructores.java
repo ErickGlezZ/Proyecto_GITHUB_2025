@@ -49,6 +49,7 @@ class Temperatura{
 		System.out.println("Hora de registro: " + horaRegistrada);
 		System.out.println("Fecha de registro: " + fechaRegistro);
 		System.out.println("Se activo el sensor: " + sensor);
+		System.out.println("Termino el programa!!!");
 	}
 	
 }
