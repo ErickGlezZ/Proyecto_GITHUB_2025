@@ -117,7 +117,7 @@ class Empleado extends Persona implements InterfazEmpleado{
 	@Override
 	public double calcularSalario() {
 		
-		return 0.0;
+		return 0.0000001;
 	}
 	
 	
